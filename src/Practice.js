@@ -86,7 +86,7 @@ function Practice() {
   return (
     <>
         {x}
-     <button onClick={a}>click</button>
+     <button onClick={a}>click12</button>
     </>
   );
 }
